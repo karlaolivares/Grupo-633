@@ -13,7 +13,7 @@ header{
     height: 650px;
     background: #A770EF;  
     background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
-    background: linear-gradient(to right, rgba(242, 252, 254, 0.21), rgba(28, 146, 210, 0.19)), url(../img/imagen%205.jpg); 
+    background: linear-gradient(to right, rgba(242, 252, 254, 0.21), rgba(28, 146, 210, 0.19)), url(../imagenes/descarga.jpg);
     
     
     background-size: cover;
